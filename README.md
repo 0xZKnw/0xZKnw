@@ -17,5 +17,3 @@ Je suis un développeur passionné avec plus de **6 ans d'expérience** en progr
 
 ### 📊 Github Stats
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=0xZKnw&show_icons=true&theme=dark)
-
-Toujours à la recherche de nouveaux défis et de projets innovants ! 🚀
