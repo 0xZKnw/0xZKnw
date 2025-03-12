@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🚀 Passionné par la Blockchain & Développeur Full-Stack
 
-<!--
-**0xZKnw/0xZKnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 À propos de moi
+Je suis un développeur passionné avec plus de **6 ans d'expérience** en programmation. La **blockchain** me fascine, et j'adore explorer les technologies décentralisées. J'ai travaillé sur plusieurs projets variés allant du **web** au **développement système** en passant par la **sécurité et le chiffrement**.
 
-Here are some ideas to get you started:
+### 🔥 Mes projets
+- 🌐 **Réseau décentralisé** en **Python** 📡
+- 🖥️ **Site web** développé en **TypeScript** ⚡
+- 🔑 **Gestionnaire de mots de passe** en **Python** 🔐
+- 📂 **Système d'encryption de fichiers** en **Go** 🔏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Compétences techniques
+- 🚀 **Langages** : Go, Java, Python, TypeScript, CSS, HTML, Solidity (débutant)
+- 🏗️ **Développement web** : TypeScript, HTML, CSS
+- 🔒 **Sécurité & cryptographie** : Go, Python
+- ⛓️ **Blockchain** : Solidity, Web3.js, Smart Contracts
+
+### 📊 Github Stats
+![Mes Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=dark)
+
+Toujours à la recherche de nouveaux défis et de projets innovants ! 🚀
