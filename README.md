@@ -13,7 +13,7 @@ Je suis un développeur passionné avec plus de **6 ans d'expérience** en progr
 - 🚀 **Langages** : Go, Java, Python, TypeScript, CSS, HTML, Solidity (débutant)
 - 🏗️ **Développement web** : TypeScript, HTML, CSS
 - 🔒 **Sécurité & cryptographie** : Go, Python
-- ⛓️ **Blockchain** : Solidity, Web3.js, Smart Contracts
+- ⛓️ **Blockchain** : Solidity
 
 ### 📊 Github Stats
 ![Mes Stats](https://github-readme-stats.vercel.app/api?username=0xZKnw&show_icons=true&theme=dark)
