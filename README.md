@@ -1,19 +1,21 @@
-## 🚀 Passionné par la Blockchain & Développeur Full-Stack
+# Hey there 👋,
 
-### 💡 À propos de moi
-Je suis un développeur passionné avec plus de **6 ans d'expérience** en programmation. La **blockchain** me fascine, et j'adore explorer les technologies décentralisées. J'ai travaillé sur plusieurs projets variés allant du **web** au **développement système** en passant par la **sécurité et le chiffrement**.
+## 🚀 Passionate about Blockchain & Full-Stack Developer
 
-### 🔥 Mes projets
-- 🌐 **Réseau décentralisé** en **Python** 📡
-- 🖥️ **Site web** développé en **TypeScript** ⚡
-- 🔑 **Gestionnaire de mots de passe** en **Python** 🔐
-- 📂 **Système d'encryption de fichiers** en **Go** 🔏
+### 💡 About Me
+I am a passionate developer with over **6 years of experience** in programming. **Blockchain** fascinates me, I love create/use decentralized technologies. I have worked on several diverse projects ranging from **web development** to **system development** and **security & encryption**.
 
-### 💻 Compétences techniques
-- 🚀 **Langages** : Go, Java, Python, TypeScript, CSS, HTML, Solidity (débutant)
-- 🏗️ **Développement web** : TypeScript, HTML, CSS
-- 🔒 **Sécurité & cryptographie** : Go, Python
-- ⛓️ **Blockchain** : Solidity
+### 🔥 My Projects
+- 🌐 **Decentralized network** in **Python** 📡
+- 🖥️ **Website** developed in **TypeScript** ⚡
+- 🔑 **Password manager** in **Python** 🔐
+- 📂 **File encryption system** in **Go** 🔏
+
+### 💻 Technical Skills
+- 🚀 **Languages**: Go, Java, Python, TypeScript, CSS, HTML, Solidity (beginner)
+- 🏗️ **Web Development**: TypeScript, HTML, CSS
+- 🔒 **Security & Cryptography**: Go, Python
+- ⛓️ **Blockchain**: Solidity, Smart Contracts
 
 ### 📊 Github Stats
-![Mes Stats](https://github-readme-stats.vercel.app/api?username=0xZKnw&show_icons=true&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
