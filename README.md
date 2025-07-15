@@ -1,20 +1,20 @@
 # Hey there 👋,
 
-## 🚀 Passionate about Blockchain & Full-Stack Developer
+## 🚀 Passionate about Blockchain
 
 ### 💡 About Me
-I am a passionate developer with over **6 years of experience** in programming. **Blockchain** fascinates me, I love create/use decentralized technologies. I have worked on several diverse projects ranging from **web development** to **system development** and **security & encryption**.
+I am a passionate developer with over **8 years of experience** in programming. **Blockchain** fascinates me, I love create/use decentralized technologies. I have worked on several diverse projects ranging from **web development** to **system development** and **security & encryption**.
 
 ### 🔥 My Projects
-- 🌐 **Decentralized network** in **Python** 📡
-- 🖥️ **Website** developed in **TypeScript** ⚡
+- 🌐 **Decentralized messaging app** in **Python** 📡
+- 🖥️ **Website** developed in **TypeScript** (![0xZKnw.me](https://0xZKnw.me)) ⚡
 - 🔑 **Password manager** in **Python** 🔐
 - 📂 **File encryption system** in **Go** 🔏
 
 ### 💻 Technical Skills
-- 🚀 **Languages**: Go, Java, Python, TypeScript, CSS, HTML, Solidity (beginner)
+- 🚀 **Languages**: Go, Java, Python, TypeScript, CSS, HTML, Solidity (beginner), Rust (Beginner)
 - 🏗️ **Web Development**: TypeScript, HTML, CSS
-- 🔒 **Security & Cryptography**: Go, Python
+- 🔒 **Security & Cryptography**: Go, Python, Rust
 - ⛓️ **Blockchain**: Solidity, Smart Contracts
 
 ### 📊 Github Stats
