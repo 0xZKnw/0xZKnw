@@ -7,7 +7,7 @@ I am a passionate developer with over **8 years of experience** in programming. 
 
 ### 🔥 My Projects
 - 🌐 **Decentralized messaging app** in **Python** 📡
-- 🖥️ **Website** developed in **TypeScript** (![0xZKnw.me](https://0xZKnw.me)) ⚡
+- 🖥️ **Website** developed in **TypeScript** (https://0xZKnw.me) ⚡
 - 🔑 **Password manager** in **Python** 🔐
 - 📂 **File encryption system** in **Go** 🔏
 
