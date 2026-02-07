@@ -1,6 +1,7 @@
 # 0xZKnw
 
-**Blockchain & AI Developer** *Building high-performance decentralized systems and local intelligence.*
+**Blockchain & AI Developer**
+*Building high-performance decentralized systems and local intelligence.*
 
 ---
 
@@ -39,5 +40,5 @@ Here are some of the technical challenges I've been working on:
 
 <div align="left">
   <a href="https://0xzknw.tech">🌐 Portfolio</a> • 
-  <a href="https://twitter.com/0xZKnwIA">🐦 Twitter</a> • 
+  <a href="https://twitter.com/0xZKnwIA">🐦 Twitter</a>
 </div>
