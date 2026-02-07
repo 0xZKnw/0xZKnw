@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About
 
-With over **9 years of engineering experience**, I specialize in the intersection of **Systems Programming (Rust)**, **Blockchain (Solana/SVM)**, and **Artificial Intelligence**. I focus on building censorship-resistant infrastructure and optimizing local LLM inference.
+With over **10 years of experience**, I specialize in the intersection of **Systems Programming (Rust)**, **Blockchain (Solana/SVM)**, and **Artificial Intelligence**. I focus on building censorship-resistant infrastructure and optimizing local LLM inference.
 
 * **Core Focus:** Rust, Solana (Anchor), Autonomous Agents, Local Inference.
 * **Philosophy:** Performance, Security, Decentralization.
