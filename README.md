@@ -1,7 +1,6 @@
 # 0xZKnw
 
-**Blockchain & AI Developer**
-*Building high-performance decentralized systems and local intelligence.*
+**Blockchain & AI Developer** | *Building high-performance decentralized systems and local intelligence.*
 
 ---
 
