@@ -17,7 +17,7 @@ With over **10 years of experience**, I specialize in the intersection of **Syst
 
 Here are some of the technical challenges I've been working on:
 
-#### 🦀 **[LocaLM](https://github.com/0xZKnw/LocaLM)**
+#### 🦀 **[clawRS](https://github.com/0xZKnw/clawRS)**
 
 #### 🤖 **[ai-agent-playground](https://github.com/0xZKnw/ai-agent-playground)**
 
