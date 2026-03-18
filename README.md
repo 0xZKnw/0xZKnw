@@ -31,7 +31,7 @@ Here are some of the technical challenges I've been working on:
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Core** | `Rust` `Javq` `Python` |
+| **Core** | `Rust` `Java` `Python` |
 | **Blockchain** | `Solana (SVM)` `Anchor` `Web3.js` |
 | **Web & App** | `TypeScript` `Next.js` |
 
