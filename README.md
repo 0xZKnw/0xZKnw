@@ -7,8 +7,7 @@
 **About Me :**
 
 - 🔭 I'm an AI and Blockchain Developer
-- 🧠 I'm learning AI engineering — model architectures, training, inference
+- 🧠 I'm learning AI engineering (model architectures, training, inference)
 - ❤️ I love Rust, and anything that runs without a server
-- 🌱 I'm also digging into zero-knowledge proofs and local LLM inference
 
 [Portfolio](https://0xzknw.tech) · [Twitter](https://twitter.com/0xZKnwIA)
