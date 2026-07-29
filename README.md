@@ -1,6 +1,6 @@
-<img align="right" width="200" src="assets/pp.jpg" alt="0xZKnw" />
-
 # Hey 👋, I'm Justin
+
+<img align="right" width="200" src="assets/pp.jpg" alt="0xZKnw" />
 
 <img src="https://komarev.com/ghpvc/?username=0xZKnw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
