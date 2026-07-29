@@ -10,4 +10,4 @@
 - 🧠 I'm learning AI engineering (model architectures, training, inference)
 - ❤️ I love Rust, and anything that runs without a server
 
-[Portfolio](https://0xzknw.tech) · [Twitter](https://twitter.com/0xZKnwIA)
+[Portfolio](https://0xzknw.tech) · [Twitter](https://twitter.com/0xZKnw)
