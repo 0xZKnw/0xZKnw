@@ -8,6 +8,6 @@
 
 - 🔭 I'm an AI and Blockchain Developer
 - 🧠 I'm learning AI engineering (model architectures, training, inference)
-- ❤️ I love Rust, and anything that runs without a server
+- ❤️ I love Rust and JS
 
 [Portfolio](https://0xzknw.tech) · [Twitter](https://twitter.com/0xZKnw)
